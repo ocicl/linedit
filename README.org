@@ -1,0 +1,10 @@
+* linedit
+
+Readline-style line-editor for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/sharplispers/linedit.git   |
+| commit  | 0561c97  |
+| systems | linedit |
+|---------+-------------------------------------------|
+
